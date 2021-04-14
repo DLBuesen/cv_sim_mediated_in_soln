@@ -10,6 +10,6 @@ gnome-terminal --tab -- bash -c '\
 	docker login;\
 	echo "Running the container...";\
 	sleep 3;\
-	xhost +local:docker && docker run --rm --privileged -it --env DISPLAY=$DISPLAY -v $XAUTH:/root/.Xauthority -v /tmp/.X11-unix:/tmp/.X11-unix -v ~/Desktop/cv_sim_mediated_in_soln:/appFolder dlbuesen/matlab_mcr_v910 ./launchApp.sh'
+	xhost +local:docker && docker run --rm --privileged -it --env DISPLAY=$DISPLAY -v $XAUTH:/root/.Xauthority -v /tmp/.X11-unix:/tmp/.X11-unix -v ~/Desktop/cv_sim_mediated_in_soln-main:/appFolder dlbuesen/matlab_mcr_v910 ./launchApp.sh'
 
 
