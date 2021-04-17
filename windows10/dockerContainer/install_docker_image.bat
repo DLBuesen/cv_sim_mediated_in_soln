@@ -23,7 +23,7 @@ docker images
 timeout 3
 
 echo Docker image with ID 45c52ae59102
-echo from repository "dlbuesen/cv_sim_mediated_in_soln"
+echo from repository "dlbuesen/matlab_mcr_v910"
 echo should appear in the list of images above
 
 echo Done
