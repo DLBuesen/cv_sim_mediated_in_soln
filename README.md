@@ -27,7 +27,7 @@
 - For specific instructions for installation windows 10 based systems, click on the "windows10" folder in this project folder.
 
 # License
-- This app was made using Matlab with an education and research license. Therefore, use which is outside of the scope of this licence (i.e. commercial use) is prohibited.
+- This app was made using Matlab with an education and research license. Therefore, use which is outside of the scope of this license (i.e. commercial use) is prohibited.
 
 # Reference Articles
 -[Effect of Substrate Inhibition and Cooperativity on the Electrochemical Responses of Glucose Dehydrogenase. Kinetic Characterization of Wild and Mutant Types](https://pubs.acs.org/doi/abs/10.1021/ja204637d)
