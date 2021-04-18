@@ -2,7 +2,7 @@
 - Simulation of the experimental cyclic voltammogram signal for a given set of dimensional parameters (concentrations, diffusion rates, catalytic rate constants, etc).
 - Redox enzymatic catalysis mediated by a redox mediator.
 - Reversible electron transfer at the electrode (Nernst Equation).
-- The mechanism is a ping-pong mechanism with allowance for enyzme inhibition and first-order substrate loss, as described in the following [paper](https://pubs.acs.org/doi/abs/10.1021/ja204637d).
+- The mechanism is a ping-pong mechanism with allowance for enyzme inhibition and first-order substrate loss, as described in the following research [paper](https://pubs.acs.org/doi/abs/10.1021/ja204637d). Additional research papers which are relevant for gaining an understanding of the system are listed in a separate section below.
 
 # How the App can be Useful
 - To simulate the predicted experimental signals for a given set of experimental conditions and dimensional parameters.
@@ -29,5 +29,5 @@
 # License
 - This app was made using Matlab with an education and research license. Therefore, use which is outside of the scope of this license (i.e. commercial use) is prohibited.
 
-# Reference Articles
+# Other Reference Articles
 -[Effect of Substrate Inhibition and Cooperativity on the Electrochemical Responses of Glucose Dehydrogenase. Kinetic Characterization of Wild and Mutant Types](https://pubs.acs.org/doi/abs/10.1021/ja204637d)
