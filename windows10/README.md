@@ -25,7 +25,7 @@
 - Run the uninstallation script in the "containers" folder, and follow the instruction in the prompt to verify that the container has been removed.
 - Move the project folder to the recycling bin.
 - Close docker and XLaunch.
-- A demonstration video can be found [here]
+- A demonstration video can be found [here](https://vimeo.com/538426988)
 
 # Questions or Issues
 - This is a "work in progress", so the identification and resolution of issues will make it better.
