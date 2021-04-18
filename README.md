@@ -18,7 +18,7 @@
 - A plot of the cyclic voltammogram appears. Tools within the graph can be used to read the data points, or to save the figure as a .png
 - The current-potential data for the simulated CV is saved to the data export excel file. The data can then be transferred to another spreadsheet or graphing program (i.e. Origin) for reformatting or for making overlay plots.
 - The program is closed by closing the main window of the simulation.
-- A tour of the app is shown in a video for the [windows 10](https://vimeo.com/538415217) and for the [ubuntu 18.04 LTS] (reference) operating systems.
+- A tour of the app is shown in a video for the [windows 10](https://vimeo.com/538415217) and for the [ubuntu 18.04 LTS] (reference) operating systems. Since it is assumed that most will use the app from windows 10, therefore more details are given in the windows 10 video. Therefore, those using the app in ubuntu should also view the windows version videos. The ubuntu videos will be mostly quick demonstrations with an emphasis on the minor differences encountered when running the app in ubuntu.
 
 # Operating Systems and Installation
 - The app can be run from Windows 10 or from Ubuntu 18.04 LTS.
