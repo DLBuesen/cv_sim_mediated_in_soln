@@ -35,5 +35,7 @@
 - [Kinetic control by the substrate and the cosubstrate in electrochemically monitored redox enzymatic immobilized systems. Catalytic responses in cyclic voltammetry and steady state techniques](https://www.sciencedirect.com/science/article/abs/pii/S0022072802006587)
 
 - [Electrochemistry of Immobilized Redox Enzymes:  Kinetic Characteristics of NADH Oxidation Catalysis at Diaphorase Monolayers Affinity Immobilized on Electrodes.](https://doi.org/10.1021/ja0569196)
-- [Cyclic Voltammetric Simulation for Electrochemically Mediated Enzyme Reaction and Determination of Enzyme Kinetic Constants] (https://pubs.acs.org/doi/abs/10.1021/ac9711807)
-- [Extracting kinetic parameters for homogeneous ... mediated enzyme reactions from cyclic voltammetry and simulations] (https://www.sciencedirect.com/science/article/pii/S1567539408001400)
+
+- [Cyclic Voltammetric Simulation for Electrochemically Mediated Enzyme Reaction and Determination of Enzyme Kinetic Constants](https://doi.org/10.1021/ac9711807)
+
+- [Extracting kinetic parameters for homogeneous ... mediated enzyme reactions from cyclic voltammetry and simulations](https://doi.org/10.1016/j.bioelechem.2008.08.001)
