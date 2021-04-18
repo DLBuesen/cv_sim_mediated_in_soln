@@ -30,4 +30,4 @@
 - This app was made using Matlab with an education and research license. Therefore, use which is outside of the scope of this license (i.e. commercial use) is prohibited.
 
 # Other Reference Articles
--[Effect of Substrate Inhibition and Cooperativity on the Electrochemical Responses of Glucose Dehydrogenase. Kinetic Characterization of Wild and Mutant Types](https://pubs.acs.org/doi/abs/10.1021/ja204637d)
+- [New insights into the enzymic catalysis of the oxidation of glucose by native and recombinant glucose oxidase mediated by electrochemically generated one-electron redox cosubstrates.](https://pubs.acs.org/doi/abs/10.1021/ja00054a001)
