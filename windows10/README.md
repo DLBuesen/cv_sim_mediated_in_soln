@@ -10,25 +10,21 @@
 - local (i.e. not a web or cloud based) installation of Excel
 - admin privileges. If the account does not have admin privileges, then the system admin will need to perform the installation for you.
 
-# Download the zip file of the project, and unzip the folder to the desktop
-- leave the zip file in the downloads folder
-- A demonstration video can be found [here]
+# Installing the App
+- Download the project folder from this repositry and unzip to the desktop.
+- Verify that docker desktop is running, that you are signed into your docker account, and that docker is set for running linux based containers.
+- Run the docker container installation script in the "containers" folder.
+- Verify that XLaunch is running with access control disabled.
+- Run the launchApp script in the "windows10" folder.
+- After setting the paths for the parameter and data export excel files, run the simulation with the preset parameter values. Verify that the resulting plot matches the image on the app pane next to the main menu.
+- Change parameters, rerun the simulation, and confirm the connections to the parameter input and data export excel files are working.
+- Close docker and XLaunch.
+- A demonstration video can be found [here](https://vimeo.com/538391877)
 
-# Install the container
-- Run the docker container installation script in the "containers" folder
-- A demonstration video can be found [here]
-
-# Test the App
-- Verify that docker desktop is running and set for running linux based containers
-- Verify that XLaunch is running with access control disabled
-- Run the launchApp script in the "windows10" folder
-- After setting the paths for the parameter and data export excel files, run the simulation with the preset parameter values
-- Verify that the resulting plot matches the image on the app pane next to the main menu
-- A demonstration video can be found [here]
-
-# -----Uninstalling the App-----
+# Uninstalling the App
 - Run the uninstallation script in the "containers" folder, and follow the instruction in the prompt to verify that the container has been removed.
 - Move the project folder to the recycling bin.
+- Close docker and XLaunch.
 - A demonstration video can be found [here]
 
 # Questions or Issues
