@@ -13,25 +13,11 @@
 - From docker.com -> get started -> Signup -> register a free account.
 - Without this step, you will not be able to access the docker container used in this app.
 
-# Install docker desktop for windows
+# Install docker desktop for windows with the ability to run Linux containers via WSL version 2
 - From docker.com -> get started -> Docker Desktop: Download for Windows
-- Instruction to install the "Windows System for Linux 2" WSL 2 update might appear (takes you directly to the webpage where installation begins with a single click)
+- Instruction to install the "Windows System for Linux 2" WSL 2 update should appear (takes you directly to the webpage where installation begins with a single click)
 - A demonstration video can be found [here](https://vimeo.com/538355816)
-
-# Configure docker for running linux containers
-- Right click on the docker icon on the lower right side of the windows 10 taskbar -> verify that it has the option "Switch to Windows containers". This means that it is current set up for running Linux containers.
-- On docker desktop settings pane (select gear icon on upper right side) -> select "Use the WSL 2 based engine"
-- Follow the instruction to install the WSL 2 update (takes you directly to the webpage where installation begins with a single click)
-- A demonstration video can be found [here]
-
-# Test that docker container is installed correctly
-- Run the dockerContainerTest batch script in the "containers" folder
-- A demonstration video can be found [here]
 
 # Install XLaunch
 - Install Xming X Server for Windows from sourceforge.net/projects/xming
-- A demonstration video can be found [here]
-
-# Test that XLaunch is working correctly with docker container
-- Run the xLaunchTest batch script in the "containers" folder
-- A demonstration video can be found [here]
+- A demonstration video can be found [here](https://vimeo.com/538377926)
