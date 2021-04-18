@@ -27,7 +27,7 @@
 - Additional installation instructions which are operating system specific can be found by clicking on the respective folder within this project, i.e. ("windows10" for windows 10 based systems and "ubuntu1804" for ubuntu 18.04 LTS based systems).
 
 # License
-- This app was made using Matlab with an education and research license. Therefore, use which is outside of the scope of this license (i.e. commercial use) is prohibited.
+- This app was made using Matlab with an education and research license. Therefore, use of the app must be within the scope of this license.
 
 # Some Additional Reference Articles
 - [New insights into the enzymic catalysis of the oxidation of glucose by native and recombinant glucose oxidase mediated by electrochemically generated one-electron redox cosubstrates.](https://pubs.acs.org/doi/abs/10.1021/ja00054a001)
