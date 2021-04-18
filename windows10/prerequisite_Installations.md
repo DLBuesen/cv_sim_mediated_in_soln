@@ -16,7 +16,7 @@
 # Install docker desktop for windows
 - From docker.com -> get started -> Docker Desktop: Download for Windows
 - Instruction to install the "Windows System for Linux 2" WSL 2 update might appear (takes you directly to the webpage where installation begins with a single click)
-- A demonstration video can be found [here]
+- A demonstration video can be found [here](https://vimeo.com/538355816)
 
 # Configure docker for running linux containers
 - Right click on the docker icon on the lower right side of the windows 10 taskbar -> verify that it has the option "Switch to Windows containers". This means that it is current set up for running Linux containers.
