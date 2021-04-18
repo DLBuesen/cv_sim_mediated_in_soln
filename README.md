@@ -39,3 +39,5 @@
 - [Cyclic Voltammetric Simulation for Electrochemically Mediated Enzyme Reaction and Determination of Enzyme Kinetic Constants](https://doi.org/10.1021/ac9711807)
 
 - [Extracting kinetic parameters for homogeneous ... mediated enzyme reactions from cyclic voltammetry and simulations](https://doi.org/10.1016/j.bioelechem.2008.08.001)
+
+- [A Numerical Approach to Modeling the Catalytic Voltammetry of Surface-Confined Redox Enzymes](https://doi.org/10.1021/jp047808g)
