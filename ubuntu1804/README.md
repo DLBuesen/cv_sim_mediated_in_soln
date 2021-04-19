@@ -4,7 +4,7 @@
 - Unfortunately support cannot be provided in the unlikely event that something goes wrong with your PC (i.e. hard-drive crash).
 - This is good practice and should always be done before starting any installation or making any major changes to your PC.
 - Use of the app requires the installation of docker desktop (configured for running linux containers), and installation of XLaunch (running with access control disabled). Instructions for fulfilling these prerequisites can be found by clicking on the prerequisite_Installations.md file in this folder.
-- 
+
 # Use a windows account with:
 - updated ubuntu 18.04
 - local (i.e. not a web or cloud based) installation of Open Office Calc
