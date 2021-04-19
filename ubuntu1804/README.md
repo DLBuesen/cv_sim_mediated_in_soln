@@ -6,22 +6,17 @@
 - Use of the app requires the installation of docker desktop (configured for running linux containers), and installation of XLaunch (running with access control disabled). Instructions for fulfilling these prerequisites can be found by clicking on the prerequisite_Installations.md file in this folder.
 - 
 # Use a windows account with:
-- updated windows 10
+- updated ubuntu 18.04
 - local (i.e. not a web or cloud based) installation of Open Office Calc
 - admin privileges. If the account does not have admin privileges, then the system admin will need to perform the installation for you.
 
-# Installing the App
+# Installing and Uninstalling the App
 - Download the project folder from this repositry and unzip to the desktop.
 - Run the docker container installation script in the "containers" folder. Signing into your docker account can be done directly during the running of the scripts via keyboard entry.
-- Run the launchApp script in the "ubuntu1804" folder.
 - After setting the paths for the parameter and data export excel files, run the simulation with the preset parameter values. Verify that the resulting plot matches the image on the app pane next to the main menu.
 - Change parameters, rerun the simulation, and confirm the connections to the parameter input and data export excel files are working.
 - A demonstration video can be found [here] (reference)
-
-# Uninstalling the App
-- Run the uninstallation script in the "containers" folder, and follow the instruction in the prompt to verify that the container has been removed.
-- Move the project folder to the recycling bin.
-- Close docker and XLaunch.
+- To uninstall, run the uninstallation script in the "containers" folder, and follow the instruction in the prompt to verify that the container has been removed. Then move the project folder to the recycling bin.
 - A demonstration video can be found [here] (reference)
 
 # Questions or Issues
