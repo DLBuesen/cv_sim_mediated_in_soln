@@ -3,29 +3,26 @@
 - !!Back up your data to an external device!!, i.e. not a separate partition on the same hard-drive.
 - Unfortunately support cannot be provided in the unlikely event that something goes wrong with your PC (i.e. hard-drive crash).
 - This is good practice and should always be done before starting any installation or making any major changes to your PC.
-- Use of the app requires the installation of docker engine. A collection of the necessary commands is included in the dockerEngineInstall.md file in this folder. An demonstration video can be found [here] (reference)
+- Use of the app requires the installation of docker desktop (configured for running linux containers), and installation of XLaunch (running with access control disabled). Instructions for fulfilling these prerequisites can be found by clicking on the prerequisite_Installations.md file in this folder.
 - 
 # Use a windows account with:
 - updated windows 10
-- local (i.e. not a web or cloud based) installation of Excel
+- local (i.e. not a web or cloud based) installation of Open Office Calc
 - admin privileges. If the account does not have admin privileges, then the system admin will need to perform the installation for you.
 
 # Installing the App
 - Download the project folder from this repositry and unzip to the desktop.
-- Verify that docker desktop is running, that you are signed into your docker account, and that docker is set for running linux based containers.
-- Run the docker container installation script in the "containers" folder.
-- Verify that XLaunch is running with access control disabled.
-- Run the launchApp script in the "windows10" folder.
+- Run the docker container installation script in the "containers" folder. Signing into your docker account can be done directly during the running of the scripts via keyboard entry.
+- Run the launchApp script in the "ubuntu1804" folder.
 - After setting the paths for the parameter and data export excel files, run the simulation with the preset parameter values. Verify that the resulting plot matches the image on the app pane next to the main menu.
 - Change parameters, rerun the simulation, and confirm the connections to the parameter input and data export excel files are working.
-- Close docker and XLaunch.
-- A demonstration video can be found [here](https://vimeo.com/538391877)
+- A demonstration video can be found [here] (reference)
 
 # Uninstalling the App
 - Run the uninstallation script in the "containers" folder, and follow the instruction in the prompt to verify that the container has been removed.
 - Move the project folder to the recycling bin.
 - Close docker and XLaunch.
-- A demonstration video can be found [here](https://vimeo.com/538426988)
+- A demonstration video can be found [here] (reference)
 
 # Questions or Issues
 - This is a "work in progress", so the identification and resolution of issues will make it better.
