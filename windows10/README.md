@@ -6,9 +6,9 @@
 - Use of the app requires the installation of docker desktop (configured for running linux containers), and installation of XLaunch (running with access control disabled). Instructions for fulfilling these prerequisites can be found by clicking on the installation instruction .md file in this folder.
 
 # Use a windows account with:
-- updated windows 10
-- local (i.e. not a web or cloud based) installation of Excel
-- admin privileges. If the account does not have admin privileges, then the system admin will need to perform the installation for you.
+- Updated windows 10
+- Local (i.e. not a web or cloud based) installation of Excel
+- Admin privileges. If the account does not have admin privileges, then the system admin will need to perform the installation for you.
 
 # Installing the App
 - Download the project folder from this repositry and unzip to the desktop.
