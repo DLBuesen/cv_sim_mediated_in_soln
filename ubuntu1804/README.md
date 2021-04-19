@@ -6,9 +6,9 @@
 - Use of the app requires the installation of docker desktop (configured for running linux containers), and installation of XLaunch (running with access control disabled). Instructions for fulfilling these prerequisites can be found by clicking on the prerequisite_Installations.md file in this folder.
 
 # Use a windows account with:
-- updated ubuntu 18.04
-- local (i.e. not a web or cloud based) installation of Open Office Calc
-- admin privileges. If the account does not have admin privileges, then the system admin will need to perform the installation for you.
+- Updated ubuntu 18.04
+- Local (i.e. not a web or cloud based) installation of Open Office Calc
+- Admin privileges. If the account does not have admin privileges, then the system admin will need to perform the installation for you.
 
 # Installing and Uninstalling the App
 - Download the project folder from this repositry and unzip to the desktop.
