@@ -15,9 +15,8 @@
 - Run the docker container installation script in the "containers" folder. Signing into your docker account can be done directly during the running of the scripts via keyboard entry.
 - After setting the paths for the parameter and data export excel files, run the simulation with the preset parameter values. Verify that the resulting plot matches the image on the app pane next to the main menu.
 - Change parameters, rerun the simulation, and confirm the connections to the parameter input and data export excel files are working.
-- A demonstration video can be found [here] (reference)
 - To uninstall, run the uninstallation script in the "containers" folder, and follow the instruction in the prompt to verify that the container has been removed. Then move the project folder to the recycling bin.
-- A demonstration video can be found [here] (reference)
+- A demonstration video can be found [here](https://vimeo.com/538793841)
 
 # Questions or Issues
 - This is a "work in progress", so the identification and resolution of issues will make it better.
