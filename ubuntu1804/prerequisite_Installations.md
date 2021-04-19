@@ -5,9 +5,9 @@
 - This is good practice and should always be done before starting any installation or making any major changes to your PC.
 
 # Use a windows account with:
-- updated ubuntu 18.04
-- local (i.e. not a web or cloud based) installation of Open Office Calc
-- admin privileges. If the account does not have admin privileges, then the system admin will need to perform the installation for you.
+- Updated ubuntu 18.04
+- Local (i.e. not a web or cloud based) installation of Open Office Calc
+- Admin privileges. If the account does not have admin privileges, then the system admin will need to perform the installation for you.
 
 # Register for a docker account
 - From docker.com -> get started -> Signup -> register a free account.
@@ -16,8 +16,8 @@
 # Install docker desktop for windows with the ability to run Linux containers via WSL version 2
 - From docker.com -> get started -> Docker Desktop: Download for Windows
 - Instruction to install the "Windows System for Linux 2" WSL 2 update should appear (takes you directly to the webpage where installation begins with a single click)
-- A demonstration video can be found [here](https://vimeo.com/538355816)
+- A demonstration video can be found [here] (reference)
 
 # Install XLaunch
 - Install Xming X Server for Windows from sourceforge.net/projects/xming
-- A demonstration video can be found [here](https://vimeo.com/538377926)
+- A demonstration video can be found [here] (reference)
