@@ -3,7 +3,7 @@
 - !!Back up your data to an external device!!, i.e. not a separate partition on the same hard-drive.
 - Unfortunately support cannot be provided in the unlikely event that something goes wrong with your PC (i.e. hard-drive crash).
 - This is good practice and should always be done before starting any installation or making any major changes to your PC.
-- Use of the app requires the installation of docker desktop (configured for running linux containers), and installation of XLaunch (running with access control disabled). Instructions for fulfilling these prerequisites can be found by clicking on the installation instruction .md file in this folder.
+- Use of the app requires the installation of docker desktop (configured for running linux containers), and installation of XLaunch (running with access control disabled). Instructions for fulfilling these prerequisites can be found by clicking on the installation instruction prerequisit_installations.md file in this folder.
 
 # Use a windows account with:
 - Updated windows 10
