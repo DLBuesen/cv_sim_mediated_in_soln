@@ -1,14 +1,21 @@
-# General Prerequisite Steps
-- The following steps are needed to run linux based docker container applications where the screen resources of the host PC are shared with the container. Once these are installed, it won't be necessary to repeat these installation steps every time a new linux container based app is installed.
+# Minimum Computer Specifications
+- At least 8 GB of RAM
+- CPU equivalent to at least i5 generation 8
+- 50 GB free on the hard drive. Solid state drives are not required but will have better performance.
+- Stable internet connection to be able to download the containers, which can be as large at 9.5 GB (i.e. preferable use DSL cable rather than WiFi).
+
+# Operating System Specifications
+- Updated ubuntu 18.04
+- Local (i.e. not a web or cloud based) installation of Open Office Calc
+- Admin level (i.e. sudo) privileges.
+
+# Back up Your Data
 - !!Back up your data to an external device!!, i.e. not a separate partition on the same hard-drive.
 - Unfortunately support cannot be provided in the unlikely event that something goes wrong with your PC (i.e. hard-drive crash).
 - This is good practice and should always be done before starting any installation or making any major changes to your PC.
-- Use of the app requires the installation of docker desktop (configured for running linux containers), and installation of XLaunch (running with access control disabled). Instructions for fulfilling these prerequisites can be found by clicking on the prerequisite_installations.md file in this folder.
 
-# Use a windows account with:
-- Updated ubuntu 18.04
-- Local (i.e. not a web or cloud based) installation of Open Office Calc
-- Admin privileges. If the account does not have admin privileges, then the system admin will need to perform the installation for you.
+# General Prerequisite Steps
+- Docker engine must be installed to be able to run linux based docker container images. Once installed, it won't be necessary to repeat these installation steps every time a new linux container based app is installed. Instructions for installation via terminal commands can be found [here]()
 
 # Installing and Uninstalling the App
 - Download the project folder from this repositry and unzip to the desktop.
