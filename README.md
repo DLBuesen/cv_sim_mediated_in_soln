@@ -24,7 +24,7 @@
 - The app can be run from Windows 10 or from Ubuntu 18.04 LTS.
 - The core of the simulation is carried out in a common Docker Container, which is used regardless of the host operating system. Therefore, installation of docker is required. On Windows 10 systems, this is done via installation of Docker Desktop and selecting the option to run Linux containers. On Ubuntu 18.04, Docker engine must be installed by command line commands.
 - The graphical user interface of the app requires for the host operating system to share screen infrastructure. Therefore, on Windows 10 systems, installation of XLaunch is required, and a session must be opened with access control disabled so that docker container can access the screen. Additionally, the virtual IP address of the system must be provided; this is included in the startup script but requires manual input from the end-user. On Ubuntu 18.04 systems, the commands for screen resource sharing are built into the shell scripts and do not require manual input.
-- Additional installation instructions which are operating system specific can be found by clicking on the respective folder within this project, i.e. ("windows10" for windows 10 based systems and "ubuntu1804" for ubuntu 18.04 LTS based systems).
+- Additional installation instructions which are operating system specific can be found within this project for [Windows 10](https://github.com/DLBuesen/cv_sim_mediated_in_soln/tree/main/windows10) and for [Ubuntu 18.04](https://github.com/DLBuesen/cv_sim_mediated_in_soln/tree/main/ubuntu1804).
 
 # License
 - This app was made using Matlab with an education and research license. Therefore, use of the app must be within the scope of this license.
