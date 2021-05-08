@@ -22,8 +22,10 @@
 
 # Operating Systems and Installation
 - The app can be run from Windows 10 or from Ubuntu 18.04 LTS.
-- The core of the simulation is carried out in a common Docker Container, which is used regardless of the host operating system. Therefore, installation of docker is required. On Windows 10 systems, this is done via installation of Docker Desktop and selecting the option to run Linux containers. On Ubuntu 18.04, Docker engine must be installed by command line commands.
-- The graphical user interface of the app requires for the host operating system to share screen infrastructure. Therefore, on Windows 10 systems, installation of XLaunch is required, and a session must be opened with access control disabled so that docker container can access the screen. Additionally, the virtual IP address of the system must be provided; this is included in the startup script but requires manual input from the end-user. On Ubuntu 18.04 systems, the commands for screen resource sharing are built into the shell scripts and do not require manual input.
+- The core of the simulation is carried out in a common Docker Container, which is used regardless of the host operating system. Therefore, installation of docker is required. It is also necessary to register for a free docker account. For Windows systems, WSL 2 must be installed and docker must be configured to run linux-based containers.
+- The graphical user interface of the app requires for the host operating system to share screen infrastructure. Therefore, on Windows 10 systems, installation of XLaunch is required. However, this is not required on Linux 18.04 systems.
+- It is recommended that the installation of the prerequisites for this app (docker and xLaunch) be performed by IT-support personnel or by advanced PC users (i.e. comfortable going into bios to change settings, using the command line, resolution of system-specific issues that might arise via google search and some troubleshooting).
+- Installation and use of the app itself does not require any specialized computer knowledge/interest once the prerequisites are fulfulled.
 - Additional installation instructions which are operating system specific can be found within this project for [Windows 10](https://github.com/DLBuesen/cv_sim_mediated_in_soln/tree/main/windows10) and for [Ubuntu 18.04](https://github.com/DLBuesen/cv_sim_mediated_in_soln/tree/main/ubuntu1804).
 
 # License
