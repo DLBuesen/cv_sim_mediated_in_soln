@@ -10,9 +10,8 @@
 - Admin level (i.e. sudo) privileges.
 
 # Back up Your Data
-- !!Back up your data to an external device!!, i.e. not a separate partition on the same hard-drive.
-- Unfortunately support cannot be provided in the unlikely event that something goes wrong with your PC (i.e. hard-drive crash).
-- This is good practice and should always be done before starting any installation or making any major changes to your PC.
+- Back up your data to an external device, i.e. not a separate partition on the same hard-drive.
+- This is standard good practice and should always be done before starting any installation or making any major changes to your PC.
 
 # General Prerequisite Steps
 - Docker engine must be installed to be able to run linux based docker container images. Once installed, it won't be necessary to repeat these installation steps every time a new linux container based app is installed. Instructions for installation on ubuntu can be found in the Docker software [documentation](https://docs.docker.com/engine/install/ubuntu/).
